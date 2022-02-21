@@ -1,0 +1,23 @@
+{
+  "name": "mv-first-jest",
+  "version": "1.0.0",
+  "description": "An eduational project for learning Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahangarha/MV-First-Jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahangarha/MV-First-Jest/issues"
+  },
+  "homepage": "https://github.com/ahangarha/MV-First-Jest#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
