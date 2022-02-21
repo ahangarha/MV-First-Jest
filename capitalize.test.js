@@ -7,3 +7,11 @@ test("capitalize first letter", () => {
 
   expect(result).toBe("Abcd");
 });
+
+test("capitalize empty string", () => {
+  const string = "";
+
+  const result = capitalize(string);
+
+  expect(result).toBe("");
+});
